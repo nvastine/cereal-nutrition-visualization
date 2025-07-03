@@ -7,9 +7,9 @@ The visualization compared the nutrition of various breakfast cereals. This coul
 
 The original visualization WAS quite busy, which was intended because the visualization is interactive. I was curious if the busyness would drive users to engage with the plots and sub-select points without a direct prompt. Notably, none of the evaluation participants interacted with the plot, reflecting the general expectation that plots are not interactive.
 
-![Original_Busy](Original_Busy.png)
+![Original_Busy](Images/Original_Busy.png)
 
 An improved version was developed following the course to address the issues identified during original creation and subsequent evaluation.
 
-![Improved](Improved.png)
+![Improved](Images/Improved.png)
 
