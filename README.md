@@ -3,7 +3,7 @@ This interactive visualization was the final project from DTSA5304 - Fundamental
 
 The visualization compared the nutrition of various breakfast cereals. This could be used for parents to identify healthy options for their children, or fitness oriented adults to compare protein to sugar content.
 
-![Original](Original.png)
+![Original](Images\Original.png)
 
 The original visualization WAS quite busy, which was intended because the visualization is interactive. I was curious if the busyness would drive users to engage with the plots and sub-select points without a direct prompt. Notably, none of the evaluation participants interacted with the plot, reflecting the general expectation that plots are not interactive.
 
